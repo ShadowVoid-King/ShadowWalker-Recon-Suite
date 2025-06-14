@@ -1,0 +1,49 @@
+ShadowWalker v0.7 - Proprietary License
+Copyright (c) 2025 Mohamed Sayed (ShadowVoidxKing)
+
+All rights reserved.
+
+This software, including the idea, name, structure, modules, scripts, workflows, reporting format, and source code, is the intellectual property of the author.
+
+You are granted a limited, non-exclusive right to **use this tool solely for educational or legally authorized security assessments**, including:
+- Bug bounty programs.
+- Pentesting engagements with written permission.
+- Personal learning and lab environments.
+
+---
+
+## Restrictions
+
+You are NOT allowed to:
+- Fork, copy, redistribute, or modify this repository or its code.
+- Create derivative tools or frameworks based on ShadowWalker.
+- Use the name "ShadowWalker", "ShadowVoidxKing", or any part of this project in a new tool.
+- Include this in any product or commercial service.
+- Use it on unauthorized systems or networks.
+
+---
+
+## Legal Use Only
+
+This tool is designed for **legal and ethical use**. You, the user, are solely responsible for your actions.
+- The author is **not responsible** for any illegal activity or damage caused.
+- Misuse may result in criminal or civil penalties.
+
+---
+
+## Permission Requests
+
+If you would like to:
+- Contribute, translate, or adapt the tool.
+- Integrate parts of it into your own tool.
+- License it for commercial or team usage.
+
+Then you **must** request permission first by:
+- Opening a GitHub issue on the project.
+- Or contacting the author through GitHub.
+
+---
+
+This license supersedes any default GitHub licensing defaults (e.g., MIT, GPL). If this file exists, you **must follow it**.
+
+Last Updated: June 14, 2025
