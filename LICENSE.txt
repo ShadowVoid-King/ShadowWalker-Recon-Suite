@@ -1,4 +1,4 @@
-ShadowWalker v0.7 - Proprietary License
+ShadowWalker - Proprietary License
 Copyright (c) 2025 Mohamed Sayed (ShadowVoidxKing)
 
 All rights reserved.

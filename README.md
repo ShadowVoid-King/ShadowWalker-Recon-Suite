@@ -1,4 +1,4 @@
-# ShadowWalker â€“ Recon Suite ًںڑ€ًں”چًں›،ï¸ڈ
+# ShadowWalker – Recon Suite 🚀🔍🛡️
 
 > **License:** Proprietary  
 > **Author:** Mohamed Sayed (ShadowVoidxKing)  
@@ -11,7 +11,7 @@
 
 ---
 
-## ًںڑ€ Features âڑ™ï¸ڈâœ¨
+## 🚀 Features ⚙️✨
 
 - **Modular Phases:** Run scans in distinct stages: Recon, Discovery, Vulnerability Scanning, and Takeover Analysis.  
 - **Dual Scan Modes:** Choose between a `fast` non-intrusive scan and a `deep` comprehensive scan.  
@@ -23,7 +23,7 @@
 
 ---
 
-## âڑ™ï¸ڈ Installation ًں› ï¸ڈًں“¥ًں”§
+## ⚙️ Installation 🛠️📥🔧
 
 ShadowWalker is designed for Debian-based systems like Kali Linux but can be adapted for others.
 
@@ -56,7 +56,7 @@ ShadowWalker is designed for Debian-based systems like Kali Linux but can be ada
 
 ---
 
-## ًں†• Update Notice âڑ ï¸ڈًں”„ًں’،
+## 🆕 Update Notice ⚠️🔄💡
 
 This script is specifically **built to fit penetration testing distributions** like **Kali Linux** and **Parrot OS**, ensuring smooth compatibility and streamlined setup.
 
@@ -64,11 +64,11 @@ Additionally, it has been tested and optimized to run efficiently on **SegFault 
 
 ---
 
-## ًں’، Usage & Commands ًں–¥ï¸ڈًں”چًں“‹
+## 💡 Usage & Commands 🖥️🔍📋
 
 You can run the script with CLI flags or interactively.
 
-### ًں“¦ Tool Management
+### 📦 Tool Management
 
 ```bash
 ./ShadowWalker-Kali.bash --check        # Check all dependencies
@@ -76,7 +76,7 @@ You can run the script with CLI flags or interactively.
 ./ShadowWalker-Kali.bash --update       # Update Go-based tools
 ```
 
-### ًں”چ Reconnaissance
+### 🔍 Reconnaissance
 
 ```bash
 ./ShadowWalker-Kali.bash --recon-fast example.com
@@ -85,7 +85,7 @@ You can run the script with CLI flags or interactively.
 
 > Output will be saved to: `~/Hunt/example.com/`
 
-### ًں§  Post-Recon Modules
+### 🧠 Post-Recon Modules
 
 ```bash
 ./ShadowWalker-Kali.bash --discover example.com     # Content Discovery
@@ -93,13 +93,13 @@ You can run the script with CLI flags or interactively.
 ./ShadowWalker-Kali.bash --takeover example.com     # Subdomain Takeover
 ```
 
-### âڑ”ï¸ڈ Full Attack Mode
+### ⚔️ Full Attack Mode
 
 ```bash
 ./ShadowWalker-Kali.bash --full-attack example.com
 ```
 
-### ًں“ک Help Menu
+### 📘 Help Menu
 
 ```bash
 ./ShadowWalker-Kali.bash --help
@@ -107,7 +107,7 @@ You can run the script with CLI flags or interactively.
 
 ---
 
-## ًں“ڑ Recommended Workflow ًں—‚ï¸ڈًں”ژًں› ï¸ڈ
+## 📚 Recommended Workflow 🗂️🔎🛠️
 
 1. **Start with deep recon:**
 
@@ -139,7 +139,7 @@ You can run the script with CLI flags or interactively.
 
 ---
 
-## ًں›،ï¸ڈ License & Legal Notice ًں“œâڑ–ï¸ڈًںڑ«
+## 🛡️ License & Legal Notice 📜⚖️🚫
 
 **ShadowWalker v0.7 - Proprietary License**  
 Copyright (c) 2025 Mohamed Sayed  
@@ -156,7 +156,7 @@ You are granted a **limited, non-exclusive right** to:
 
 ---
 
-### â‌Œ You Are NOT Allowed To:
+### ❌ You Are NOT Allowed To:
 
 - Fork, copy, redistribute, or modify this repository.  
 - Create derivative tools or frameworks based on ShadowWalker.  
@@ -166,7 +166,7 @@ You are granted a **limited, non-exclusive right** to:
 
 ---
 
-### âڑ ï¸ڈ Legal Use Only
+### ⚠️ Legal Use Only
 
 You, the user, are **solely responsible** for your actions.  
 The author is **not responsible** for:
@@ -177,7 +177,7 @@ The author is **not responsible** for:
 
 ---
 
-## ًں“® Permission Requests âœ‰ï¸ڈًں¤‌ًں”‘
+## 📮 Permission Requests ✉️🤝🔑
 
 To:
 
@@ -192,8 +192,9 @@ You **must** request permission by:
 
 ---
 
-ًں“„ See: [LICENSE.txt](./LICENSE.txt)
+📄 See: [LICENSE.txt](./LICENSE.txt)
 
-This license **overrides any GitHub default license** (MIT, GPL, etc.).  
-If this file exists, you **must comply with it.**
+This project is licensed under a **Proprietary License**.  
+Please refer to the full terms in the [LICENSE.txt](./LICENSE.txt) file.
 
+---
